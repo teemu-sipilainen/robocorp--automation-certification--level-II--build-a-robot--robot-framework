@@ -1,0 +1,18 @@
+1734287310071	geckodriver	INFO	Listening on 127.0.0.1:52669
+1734287313237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52670" "--remote ... ocalhost" "-no-remote" "-profile" "c:\\Users\\tsipi\\AppData\\Local\\robocorp\\temp\\202b0fe8949b7fc3\\rust_mozprofile64Uilp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1734287313989	Marionette	INFO	Marionette enabled
+1734287314724	Marionette	INFO	Listening on port 52677
+WebDriver BiDi listening on ws://127.0.0.1:52670
+Read port: 52677
+1734287315027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: BackupService: "Failed to measure for resource: miscellaneous" (new NotFoundError("Could not stat `c:\\Users\\tsipi\\AppData\\Local\\robocorp\\temp\\202b0fe8949b7fc3\\rust_mozprofile64Uilp\\storage\\permanent\\chrome\\idb\\2918063365piupsah.sqlite-journal': file does not exist (NS_ERROR_FILE_NOT_FOUND)", (void 0)))
+console.error: (new TypeError("this._searchProviderInfo is null", "resource:///modules/SearchSERPTelemetry.sys.mjs", 914))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1734287412820	Marionette	INFO	Stopped listening on port 52677
+Dynamically enable window occlusion 1
+console.error: "Error in worker resource://devtools/client/shared/source-map-loader/worker.js" ": "
